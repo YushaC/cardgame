@@ -110,9 +110,9 @@
         var imageSelected;
         var containerFails = 0;
         var containerCertain = 0;
-        var arrayImagenes = ["IMAGENES/bedfox.jpg", "IMAGENES/bookfox.jpg", "IMAGENES/grassfox.jpg",
-            "IMAGENES/handfox.jpg", "IMAGENES/handpard.jpg", "IMAGENES/leopard.jpg", "IMAGENES/meow.jpg",
-            "IMAGENES/pinkfox.jpg", "IMAGENES/meow.jpg"
+        var arrayImagenes = ["IMAGENES/bedfox.JPG", "IMAGENES/bookfox.JPG", "IMAGENES/grassfox.JPG",
+            "IMAGENES/handfox.JPG", "IMAGENES/handpard.JPG", "IMAGENES/leopard.JPG", "IMAGENES/meow.JPG",
+            "IMAGENES/pinkfox.JPG", "IMAGENES/meow.JPG"
         ];
         var qualityImagenes = arrayImagenes.length;
         var arrayPositiones = new Array(qualityImagenes);
