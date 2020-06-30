@@ -111,7 +111,7 @@
         var containerFails = 0;
         var containerCertain = 0;
         var arrayImagenes = ["IMAGENES/bedfox.JPG", "IMAGENES/bookfox.JPG", "IMAGENES/grassfox.JPG",
-            "IMAGENES/handfox.JPG", "IMAGENES/shockedmeow.JPG", "IMAGENES/leopard.JPG", "IMAGENES/meow.JPG",
+            "IMAGENES/handfox.JPG", "IMAGENES/shockedmeow.png", "IMAGENES/leopard.png", "IMAGENES/meow.png",
             "IMAGENES/pinkfox.JPG", "IMAGENES/meow.JPG"
         ];
         var qualityImagenes = arrayImagenes.length;
