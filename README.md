@@ -207,7 +207,6 @@
 <body>
     <div id="title">
         <div id="titleInside">
-            <img src="IMAGENES/titulo.png">
             <div id="fails">配對失敗: <span id="failsN">0</span></div>
             <div id="fails">配對成功: <span id="certain">0</span></div>
         </div>
